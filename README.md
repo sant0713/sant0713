@@ -1,4 +1,4 @@
-<h1>Hi, I'm Rafael! 🙋‍♂️<br/> Software Engineer & Aspiring Cybersecurity Professional</h1>
+<h1>Hi, I'm Rafael! 🙋‍♂️<br/> Software Engineer & Cybersecurity Professional</h1>
 
 Welcome to my GitHub profile where I'll be sharing code and fun projects I've been working on. My goal with this GitHub profile is to share my experiences, cybersecurity projects, and software engineering projects. Hopefully, you can learn something new or get inspired to try these projects for yourself.
 
